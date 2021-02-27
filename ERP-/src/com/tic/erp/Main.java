@@ -8,6 +8,8 @@ import java.sql.Statement;
 
 public class Main {
 //mmm
+	
+	//bnm
 	public static void main(String[] args) {
 		try {
 			Connection con = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:orcl", "STU", "STU");

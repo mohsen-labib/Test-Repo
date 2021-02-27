@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class Main {
-
+//mmm
 	public static void main(String[] args) {
 		try {
 			Connection con = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:orcl", "STU", "STU");
